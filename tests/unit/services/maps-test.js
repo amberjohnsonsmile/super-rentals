@@ -1,5 +1,3 @@
-// tests not able to run, not sure why. Probably an mispelling in this file
-
 import { moduleFor, test } from 'ember-qunit';
 import EmberObject from '@ember/object';
 
